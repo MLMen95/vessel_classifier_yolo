@@ -1,0 +1,12 @@
+bulk_carrier
+container_vessel
+fishing_vessel
+military
+small_boat
+passenger_vessel
+patrol_vessel
+RORO
+sailing_vessel
+tanker
+tug
+tugboat
