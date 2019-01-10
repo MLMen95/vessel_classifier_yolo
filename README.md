@@ -9,9 +9,9 @@ This is a repository for the object detection of vessels in video which is imple
 - using `processesing_video.py`, the video file will be processed and the frame will show the video with the detected vessels.
 
 #Screenshots of video being processed:
-![military](http://url/to/img.png)
-![tugboat](http://url/to/img.png)
-![passenger](http://url/to/img.png)
+![military](https://github.com/MLMen95/vessel_classifier_yolo/blob/master/military.JPG)
+![tugboat](https://github.com/MLMen95/vessel_classifier_yolo/blob/master/tugboat.JPG)
+![passenger](https://github.com/MLMen95/vessel_classifier_yolo/blob/master/passenger.JPG)
 
 
 #Credits:
